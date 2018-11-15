@@ -3,6 +3,8 @@
 Discover clients on network
 
 usage : python eagle.py -t IP/RANGE
+or    : cp -s /path/to/eagle.py /usr/bin/eagle
+and   : eagle -t IP/RANGE
 
 example : python eagle.py -t 192.168.1.1/24
 
