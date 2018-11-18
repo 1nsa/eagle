@@ -1,4 +1,4 @@
-# eagle
+# Eagle
 
 Discover clients on network
 
